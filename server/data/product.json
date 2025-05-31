@@ -1,0 +1,13 @@
+{
+  "id": "ecylpse-001",
+  "name": "ECYLPSE Limited Edition",
+  "description": "Redefining innovation with cutting-edge design and unparalleled performance. Experience the future of technology with ECYLPSE.",
+  "price": 399.99,
+  "sizes": ["Small", "Medium", "Large", "X-Large"],
+  "image": "https://images.pexels.com/photos/6069552/pexels-photo-6069552.jpeg",
+  "details": {
+    "sizeFit": "ECYLPSE products run true to size. For a more relaxed fit, we recommend sizing up. The product features adaptive materials that conform to your personal ergonomics while maintaining structural integrity and performance specifications.",
+    "deliveryReturns": "Free standard shipping on all orders. Expedited shipping available for an additional fee. Returns accepted within 30 days of delivery for unused products in original packaging. For custom or limited-edition products, please contact customer service for return eligibility.",
+    "howMade": "Each ECYLPSE product is crafted using our proprietary eco-friendly manufacturing process. We source sustainable materials and implement zero-waste production methods. Our facilities are powered by 100% renewable energy, and we offset any remaining carbon footprint through verified carbon offset programs."
+  }
+}

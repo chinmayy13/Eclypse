@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gal-001",
+    "url": "https://images.pexels.com/photos/7989741/pexels-photo-7989741.jpeg",
+    "alt": "ECYLPSE Product Front View",
+    "caption": "Sleek front profile showcasing the innovative display technology"
+  },
+  {
+    "id": "gal-002",
+    "url": "https://images.pexels.com/photos/4049672/pexels-photo-4049672.jpeg",
+    "alt": "ECYLPSE Product Side View",
+    "caption": "Side view highlighting the ultra-thin design and premium materials"
+  },
+  {
+    "id": "gal-003",
+    "url": "https://images.pexels.com/photos/5717777/pexels-photo-5717777.jpeg",
+    "alt": "ECYLPSE in Use",
+    "caption": "Experience the intuitive interface in a real-world setting"
+  },
+  {
+    "id": "gal-004",
+    "url": "https://images.pexels.com/photos/7873358/pexels-photo-7873358.jpeg",
+    "alt": "ECYLPSE Technical Details",
+    "caption": "Close-up of the precision-engineered components"
+  },
+  {
+    "id": "gal-005",
+    "url": "https://images.pexels.com/photos/3938023/pexels-photo-3938023.jpeg",
+    "alt": "ECYLPSE Product Family",
+    "caption": "The complete ECYLPSE ecosystem working in harmony"
+  }
+]

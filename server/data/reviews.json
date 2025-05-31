@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rev-001",
+    "name": "Alex Thompson",
+    "rating": 5,
+    "comment": "The ECYLPSE exceeded all my expectations. The build quality is exceptional, and the performance is unmatched. Absolutely worth the investment for anyone serious about cutting-edge technology.",
+    "date": "April 15, 2025"
+  },
+  {
+    "id": "rev-002",
+    "name": "Morgan Chen",
+    "rating": 4,
+    "comment": "I've been using the ECYLPSE for about a month now, and I'm impressed with how well it integrates into my daily workflow. The only minor issue is that the learning curve was steeper than I expected.",
+    "date": "March 22, 2025"
+  },
+  {
+    "id": "rev-003",
+    "name": "Jamie Rodriguez",
+    "rating": 5,
+    "comment": "This is my second ECYLPSE product, and they've managed to improve on what was already an amazing design. The attention to detail is remarkable, and customer service is top-notch when I had questions about features.",
+    "date": "February 8, 2025"
+  }
+]
