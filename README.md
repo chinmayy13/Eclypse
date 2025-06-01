@@ -2,7 +2,7 @@
 
 A full-stack e-commerce web application for ECYLPSE products with a React frontend and Express backend.
 
-[Live Server](https://683b46013cb4ec22e9c92fe5--deluxe-queijadas-e62224.netlify.app/)
+[Live Server](https://eclypse-iuwx.vercel.app/)
 
 ## Features
 
