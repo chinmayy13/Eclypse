@@ -1,7 +1,7 @@
-import axios from 'axios';
-import { Product, Review, GalleryImage } from '../types';
+import axios from "axios";
+import { Product, Review, GalleryImage } from "../types";
 
-const API_URL = 'http://localhost:3001/api';
+const API_URL = "https://one2eclypse.onrender.com/api";
 
 export const getProduct = async (): Promise<Product> => {
   const response = await axios.get(`${API_URL}/product`);
