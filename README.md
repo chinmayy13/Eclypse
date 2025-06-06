@@ -2,7 +2,7 @@
 
 A full-stack e-commerce web application for ECYLPSE products with a React frontend and Express backend.
 
-[Live Server](https://eclypse-iuwx.vercel.app/)
+### [Live Server](https://eclypse-gamma.vercel.app/)
 
 ## Features
 
